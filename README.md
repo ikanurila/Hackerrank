@@ -1,2 +1,2 @@
 # Hackerrank
-Code for hackerrank questions for SQL
+Code for hackerrank questions
